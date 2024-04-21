@@ -2,14 +2,92 @@
 
 
 
-| Picture                                                                                   | Blip Name                  |
-| ----------------------------------------------------------------------------------------- | -------------------------- |
-| <img src="../.gitbook/assets/map_act_base.jpg" alt="" data-size="original">               | map\_act\_base             |
-| <img src="../.gitbook/assets/map_act_base_down (1).jpg" alt="" data-size="original">      | map\_act\_base\_down       |
-| <img src="../.gitbook/assets/map_act_base_down_glow (2).jpg" alt="" data-size="original"> | map\_act\_base\_down\_glow |
-| <img src="../.gitbook/assets/map_act_base_glow.jpg" alt="" data-size="original">          | map\_act\_base\_glow       |
-| <img src="../.gitbook/assets/map_act_base_offscr.jpg" alt="" data-size="original">        | map\_act\_base\_offscr     |
-| <img src="../.gitbook/assets/map_act_base_up.jpg" alt="" data-size="original">            | map\_act\_base\_up         |
-| <img src="../.gitbook/assets/map_act_base_up_glow (1).jpg" alt="" data-size="original">   | map\_act\_base\_up\_glow   |
-| <img src="../.gitbook/assets/map_act_theft_pickup.jpg" alt="" data-size="original">       | map\_act\_theft\_pickup    |
-| <img src="../.gitbook/assets/map_blip_bike.jpg" alt="" data-size="original">              | map\_blip\_bike            |
+| Picture                                                                                       | Blip Name                         |
+| --------------------------------------------------------------------------------------------- | --------------------------------- |
+| <img src="../.gitbook/assets/map_act_base.jpg" alt="" data-size="original">                   | map\_act\_base                    |
+| <img src="../.gitbook/assets/map_act_base_down (1).jpg" alt="" data-size="original">          | map\_act\_base\_down              |
+| <img src="../.gitbook/assets/map_act_base_down_glow (2).jpg" alt="" data-size="original">     | map\_act\_base\_down\_glow        |
+| <img src="../.gitbook/assets/map_act_base_glow.jpg" alt="" data-size="original">              | map\_act\_base\_glow              |
+| <img src="../.gitbook/assets/map_act_base_offscr.jpg" alt="" data-size="original">            | map\_act\_base\_offscr            |
+| <img src="../.gitbook/assets/map_act_base_up.jpg" alt="" data-size="original">                | map\_act\_base\_up                |
+| <img src="../.gitbook/assets/map_act_base_up_glow (1).jpg" alt="" data-size="original">       | map\_act\_base\_up\_glow          |
+| <img src="../.gitbook/assets/map_act_theft_pickup.jpg" alt="" data-size="original">           | map\_act\_theft\_pickup           |
+| <img src="../.gitbook/assets/map_blip_bike.jpg" alt="" data-size="original">                  | map\_blip\_bike                   |
+| <img src="../.gitbook/assets/map_blip_brute.jpg" alt="" data-size="original">                 | map\_blip\_brute                  |
+| <img src="../.gitbook/assets/map_blip_heli.jpg" alt="" data-size="original">                  | map\_blip\_heli                   |
+| <img src="../.gitbook/assets/map_blip_plane.jpg" alt="" data-size="original">                 | map\_blip\_plane                  |
+| <img src="../.gitbook/assets/map_blip_specialist.jpg" alt="" data-size="original">            | map\_blip\_specialist             |
+| <img src="../.gitbook/assets/map_blip_tank.jpg" alt="" data-size="original">                  | map\_blip\_tank                   |
+| <img src="../.gitbook/assets/map_blip_ufo.jpg" alt="" data-size="original">                   | map\_blip\_ufo                    |
+| <img src="../.gitbook/assets/map_crosshair_disabled.jpg" alt="" data-size="original">         | map\_crosshair\_disabled          |
+| <img src="../.gitbook/assets/map_lod_crib.jpg" alt="" data-size="original">                   | map\_lod\_crib                    |
+| <img src="../.gitbook/assets/map_other_blip_human.jpg" alt="" data-size="original">           | map\_other\_blip\_human           |
+| <img src="../.gitbook/assets/map_other_blip_revive.jpg" alt="" data-size="original">          | map\_other\_blip\_revive          |
+| <img src="../.gitbook/assets/map_other_blip_revive_glow.jpg" alt="" data-size="original">     | map\_other\_blip\_revive\_glow    |
+| <img src="../.gitbook/assets/map_other_blip_vehicle.jpg" alt="" data-size="original">         | map\_other\_blip\_vehicle         |
+| <img src="../.gitbook/assets/map_other_bookmark_a_1.jpg" alt="" data-size="original">         | map\_other\_bookmark\_a\_1        |
+| <img src="../.gitbook/assets/map_other_bookmark_a_2.jpg" alt="" data-size="original">         | map\_other\_bookmark\_a\_2        |
+| <img src="../.gitbook/assets/map_other_bookmark_a_3.jpg" alt="" data-size="original">         | map\_other\_bookmark\_a\_3        |
+| <img src="../.gitbook/assets/map_other_bookmark_a_4.jpg" alt="" data-size="original">         | map\_other\_bookmark\_a\_4        |
+| <img src="../.gitbook/assets/map_other_bookmark_a_5.jpg" alt="" data-size="original">         | map\_other\_bookmark\_a\_5        |
+| <img src="../.gitbook/assets/map_other_bookmark_b_1.jpg" alt="" data-size="original">         | map\_other\_bookmark\_b\_1        |
+| <img src="../.gitbook/assets/map_other_bookmark_b_2.jpg" alt="" data-size="original">         | map\_other\_bookmark\_b\_2        |
+| <img src="../.gitbook/assets/map_other_bookmark_b_3.jpg" alt="" data-size="original">         | map\_other\_bookmark\_b\_3        |
+| <img src="../.gitbook/assets/map_other_bookmark_b_4.jpg" alt="" data-size="original">         | map\_other\_bookmark\_b\_4        |
+| <img src="../.gitbook/assets/map_other_bookmark_b_5.jpg" alt="" data-size="original">         | map\_other\_bookmark\_b\_5        |
+| <img src="../.gitbook/assets/map_other_collect_drug.jpg" alt="" data-size="original">         | map\_other\_collect\_drug         |
+| <img src="../.gitbook/assets/map_other_collect_money.jpg" alt="" data-size="original">        | map\_other\_collect\_money        |
+| <img src="../.gitbook/assets/map_other_collect_photoop.jpg" alt="" data-size="original">      | map\_other\_collect\_photoop      |
+| <img src="../.gitbook/assets/map_other_collect_sexdoll.jpg" alt="" data-size="original">      | map\_other\_collect\_sexdoll      |
+| <img src="../.gitbook/assets/map_other_crib.jpg" alt="" data-size="original">                 | map\_other\_crib                  |
+| <img src="../.gitbook/assets/map_other_crib_4sale.jpg" alt="" data-size="original">           | map\_other\_crib\_4sale           |
+| <img src="../.gitbook/assets/map_other_hidden_act.jpg" alt="" data-size="original">           | map\_other\_hidden\_act           |
+| <img src="../.gitbook/assets/map_other_hidden_mission.jpg" alt="" data-size="original">       | map\_other\_hidden\_mission       |
+| <img src="../.gitbook/assets/map_other_hidden_property.jpg" alt="" data-size="original">      | map\_other\_hidden\_property      |
+| <img src="../.gitbook/assets/map_other_hidden_store.jpg" alt="" data-size="original">         | map\_other\_hidden\_store         |
+| <img src="../.gitbook/assets/map_other_radius.jpg" alt="" data-size="original">               | map\_other\_radius                |
+| <img src="../.gitbook/assets/map_other_waypoint.jpg" alt="" data-size="original">             | map\_other\_waypoint              |
+| <img src="../.gitbook/assets/map_start_chopshop.jpg" alt="" data-size="original">             | map\_start\_chopshop              |
+| <img src="../.gitbook/assets/map_start_chopshop_grey.jpg" alt="" data-size="original">        | map\_start\_chopshop\_grey        |
+| <img src="../.gitbook/assets/map_start_cleansweep_grey.jpg" alt="" data-size="original">      | map\_start\_cleansweep\_grey      |
+| <img src="../.gitbook/assets/map_start_dlc_gk_ball.jpg" alt="" data-size="original">          | map\_start\_dlc\_gk\_ball         |
+| <img src="../.gitbook/assets/map_start_dlc_gk_ball_grey.jpg" alt="" data-size="original">     | map\_start\_dlc\_gk\_ball\_grey   |
+| <img src="../.gitbook/assets/map_start_dlc_gk_escort.jpg" alt="" data-size="original">        | map\_start\_dlc\_gk\_escort       |
+| <img src="../.gitbook/assets/map_start_dlc_gk_escort_grey.jpg" alt="" data-size="original">   | map\_start\_dlc\_gk\_escort\_grey |
+| <img src="../.gitbook/assets/map_start_dlc_gk_fly.jpg" alt="" data-size="original">           | map\_start\_dlc\_gk\_fly          |
+| <img src="../.gitbook/assets/map_start_dlc_gk_fly_grey.jpg" alt="" data-size="original">      | map\_start\_dlc\_gk\_fly\_grey    |
+| <img src="../.gitbook/assets/map_start_dlc_gk_run.jpg" alt="" data-size="original">           | map\_start\_dlc\_gk\_run          |
+| <img src="../.gitbook/assets/map_start_dlc_gk_run_grey.jpg" alt="" data-size="original">      | map\_start\_dlc\_gk\_run\_grey    |
+| <img src="../.gitbook/assets/map_start_drugtrafficking.jpg" alt="" data-size="original">      | map\_start\_drugtrafficking       |
+| <img src="../.gitbook/assets/map_start_drugtrafficking_grey.jpg" alt="" data-size="original"> | map\_start\_drugtrafficking\_grey |
+| <img src="../.gitbook/assets/map_start_escort.jpg" alt="" data-size="original">               | map\_start\_escort                |
+| <img src="../.gitbook/assets/map_start_escort_grey.jpg" alt="" data-size="original">          | map\_start\_escort\_grey          |
+| <img src="../.gitbook/assets/map_start_flashpoint.jpg" alt="" data-size="original">           | map\_start\_flashpoint            |
+| <img src="../.gitbook/assets/map_start_guardianangel.jpg" alt="" data-size="original">        | map\_start\_guardianangel         |
+| <img src="../.gitbook/assets/map_start_guardianangel_grey.jpg" alt="" data-size="original">   | map\_start\_guardianangel\_grey   |
+| <img src="../.gitbook/assets/map_start_heliassault.jpg" alt="" data-size="original">          | map\_start\_heliassault           |
+| <img src="../.gitbook/assets/map_start_heliassault_grey.jpg" alt="" data-size="original">     | map\_start\_heliassault\_grey     |
+| <img src="../.gitbook/assets/map_start_humantorch.jpg" alt="" data-size="original">           | map\_start\_humantorch            |
+| <img src="../.gitbook/assets/map_start_humantorch_grey.jpg" alt="" data-size="original">      | map\_start\_humantorch\_grey      |
+| <img src="../.gitbook/assets/map_start_insfraud.jpg" alt="" data-size="original">             | map\_start\_insfraud              |
+| <img src="../.gitbook/assets/map_start_insfraud_grey.jpg" alt="" data-size="original">        | map\_start\_insfraud\_grey        |
+| <img src="../.gitbook/assets/map_start_mayhem.jpg" alt="" data-size="original">               | map\_start\_mayhem                |
+| <img src="../.gitbook/assets/map_start_mayhem_grey.jpg" alt="" data-size="original">          | map\_start\_mayhem\_grey          |
+| <img src="../.gitbook/assets/map_start_runningman.jpg" alt="" data-size="original">           | map\_start\_runningman            |
+| <img src="../.gitbook/assets/map_start_runningman_grey.jpg" alt="" data-size="original">      | map\_start\_runningman\_grey      |
+| <img src="../.gitbook/assets/map_start_snatch.jpg" alt="" data-size="original">               | map\_start\_snatch                |
+| <img src="../.gitbook/assets/map_start_snatch_grey.jpg" alt="" data-size="original">          | map\_start\_snatch\_grey          |
+| <img src="../.gitbook/assets/map_start_tankmayhem.jpg" alt="" data-size="original">           | map\_start\_tankmayhem            |
+| <img src="../.gitbook/assets/map_start_tankmayhem_grey.jpg" alt="" data-size="original">      | map\_start\_tankmayhem\_grey      |
+| <img src="../.gitbook/assets/map_store_clothing.jpg" alt="" data-size="original">             | map\_store\_clothing              |
+| <img src="../.gitbook/assets/map_store_clothing_4sale.jpg" alt="" data-size="original">       | map\_store\_clothing\_4sale       |
+| <img src="../.gitbook/assets/map_store_gun.jpg" alt="" data-size="original">                  | map\_store\_gun                   |
+| <img src="../.gitbook/assets/map_store_gun_4sale.jpg" alt="" data-size="original">            | map\_store\_gun\_4sale            |
+| <img src="../.gitbook/assets/map_store_mechanic.jpg" alt="" data-size="original">             | map\_store\_mechanic              |
+| <img src="../.gitbook/assets/map_store_mechanic_4sale.jpg" alt="" data-size="original">       | map\_store\_mechanic\_4sale       |
+| <img src="../.gitbook/assets/map_store_property.jpg" alt="" data-size="original">             | map\_store\_property              |
+| <img src="../.gitbook/assets/map_store_property_4sale.jpg" alt="" data-size="original">       | map\_store\_property\_4sale       |
+| <img src="../.gitbook/assets/map_store_surgeon (1).jpg" alt="" data-size="original">          | map\_store\_surgeon               |
+| <img src="../.gitbook/assets/map_store_surgeon_4sale.jpg" alt="" data-size="original">        | map\_store\_surgeon\_4sale        |
+| <img src="../.gitbook/assets/map_store_tattoo.jpg" alt="" data-size="original">               | map\_store\_tattoo                |
+| <img src="../.gitbook/assets/map_store_tattoo_4sale.jpg" alt="" data-size="original">         | map\_store\_tattoo\_4sale         |
