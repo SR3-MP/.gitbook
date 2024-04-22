@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-SR3MP docs to help developers creating mods with our custom framework. If you have any suggestions to improve this docs you can send pull requests on my [github](https://github.com/SR3-MP/.gitbook).
+SR3MP docs to help developers creating mods with our custom framework. If you have any suggestions to improve this docs you can send pull requests on our [github](https://github.com/SR3-MP/.gitbook).
 
 ### Preview
 
