@@ -15,7 +15,7 @@ There is two ways you can connect to a server:
 
 #### Direct Connect
 
-You put the IP of the server in the field and click connect, simple as that. (You can specify the port if the server is using a custom port, example: `127.0.0.1:9050`)
+You put the IP of the server in the field and click connect, simple as that. (You can specify the port if the server is using a custom one, example: `127.0.0.1:9050`)
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Direct Connect</p></figcaption></figure>
 
