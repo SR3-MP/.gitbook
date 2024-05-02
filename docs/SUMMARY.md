@@ -4,6 +4,7 @@
 
 * [👋 Welcome](README.md)
 * [🕹️ Getting Started](home/getting-started.md)
+* [🧰 Troubleshooting](home/troubleshooting.md)
 
 ## 📕 Game Reference
 
