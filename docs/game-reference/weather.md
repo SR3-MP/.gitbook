@@ -1,9 +1,9 @@
 # ☔ Weather
 
-|  Id | Weather Name |
-| :-: | :----------: |
-|  0  |  Clear Skies |
-|  1  |     Rainy    |
-|  2  |    Cloudy    |
-|  3  |    Thunder   |
-|  4  |     Foggy    |
+|  Id |     Name    |
+| :-: | :---------: |
+|  0  | Clear Skies |
+|  1  |  Light Rain |
+|  2  |   Overcast  |
+|  3  |  Heavy Rain |
+|  4  |  Post-Storm |
