@@ -6,7 +6,7 @@
 
 * Windows 10 or higher (Windows 7/8 should work but not officially supported)
 * [Visual C++ Redistributable](https://aka.ms/vs/17/release/vc\_redist.x64.exe) (It should be already installed on your computer, but just in case you need it)
-* A legally purchased copy of Saints Row The Third Remastered (Epic Games, Steam & GOG version are supported)
+* A legally purchased copy of Saints Row The Third Remastered ([Epic Games](https://store.epicgames.com/en-US/p/saints-row-the-third-remastered), [Steam](https://store.steampowered.com/app/978300/Saints\_Row\_The\_Third\_Remastered/) & [GOG](https://www.gog.com/en/game/saints\_row\_the\_third\_remastered) version are supported)
 
 ### How to install ?
 
