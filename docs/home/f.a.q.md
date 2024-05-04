@@ -5,7 +5,7 @@
 It's a custom multiplayer client for **Saints Row The Third: Remastered**. Allowing you to join servers made by the community, create custom mods/scripts for your own server and more.
 
 {% hint style="info" %}
-The mod is currently in Alpha stage of its development, not every features mentioned above are currently available.
+The mod is currently in Alpha stage of its development, not every features mentioned above are necessary available.
 {% endhint %}
 
 ## _Does this mod work for the original **Saints Row The Third** ?_
