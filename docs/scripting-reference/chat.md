@@ -73,7 +73,7 @@ Example:
 ```lua
 chat.register_command("test", function(src, args)
 
-    -- This message is showing on the clients chatbox.
+    -- This message is showing on all the clients chatbox.
     chat.broadcast_message("Command 'test' has been sent to all connected players !")
 end)
 ```
