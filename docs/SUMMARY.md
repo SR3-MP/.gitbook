@@ -7,6 +7,10 @@
 * [🧰 Troubleshooting](home/troubleshooting.md)
 * [⁉️ F.A.Q](home/f.a.q.md)
 
+## 📗 Scripting Reference
+
+* [💬 Chat](scripting-reference/chat.md)
+
 ## 📕 Game Reference
 
 * [⌨️ Key Codes](game-reference/key-codes.md)
