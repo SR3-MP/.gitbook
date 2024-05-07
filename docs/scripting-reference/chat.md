@@ -29,6 +29,8 @@ end)
 ```
 {% endcode %}
 
+***
+
 ### <mark style="color:purple;">send\_message</mark>
 
 Send a message to a specific player.
@@ -52,6 +54,8 @@ chat.register_command("test", function(src, args)
 end)
 ```
 
+***
+
 ### <mark style="color:purple;">broadcast\_message</mark>
 
 Send a message to all connected players.
@@ -73,3 +77,5 @@ chat.register_command("test", function(src, args)
     chat.broadcast_message("Command 'test' has been sent to all connected players !")
 end)
 ```
+
+***
