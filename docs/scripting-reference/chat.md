@@ -6,18 +6,23 @@
 
 {% code fullWidth="false" %}
 ```lua
-chat.register_command(_name, _handler)
+chat.register_command(name --[[ string ]], handler --[[ func ]])
 ```
 {% endcode %}
+
+| Name    | Type   | Description          |
+| ------- | ------ | -------------------- |
+| name    | string | Command name         |
+| handler | func   | The function handler |
 
 Example:
 
 {% code fullWidth="false" %}
 ```lua
-chat.register_command("test", function(_client_id, _args)
+chat.register_command("test", function(src, args)
 
     -- This message is showing in the server console.
-    print("Command 'test' has been called by " .._client_id.. " with args ".._args)
+    print("Command 'test' has been called by " ..src.. " with args "..args)
 end)
 ```
 {% endcode %}
@@ -25,15 +30,20 @@ end)
 ### <mark style="color:purple;">send\_message</mark>
 
 ```lua
-chat.send_message(_client_id, _str)
+chat.send_message(src --[[ integer ]], msg --[[ string ]])
 ```
+
+| Name | Type    | Description      |
+| ---- | ------- | ---------------- |
+| src  | integer | Player source id |
+| msg  | string  | Message to send  |
 
 Example:
 
 ```lua
-chat.register_command("test", function(_client_id, _args)
+chat.register_command("test", function(src, args)
 
     -- This message is showing on the client chatbox.
-    chat.send_message(_client_id, "Command 'test' has been sent back to src client !")
+    chat.send_message(src, "Command 'test' has been sent back to src client !")
 end)
 ```
