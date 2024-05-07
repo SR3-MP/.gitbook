@@ -40,10 +40,14 @@ As a workaround, you can fix this bug by going to the control panel of your GPU 
 {% endtab %}
 
 {% tab title="AMD" %}
-Not available yet.
+1. Open your **AMD Radeon Software**
+2. Click on the settings gear located on the top right corner
+3. Enable **Radeon Anti-Lag**
+4. (Optional) Enable **Radeon Chill** and cap your FPS
+5. Restart your game
 {% endtab %}
 
 {% tab title="Intel" %}
-Not available yet.
+To our knowledge there is no "Anti Lag"/"Low Latency Mode" on **Intel Arc GPUs**, so if you're experiencing the bug, please report us the issue on [our discord](https://discord.com/invite/QBQwQQbVFf), we will try our best to help you and find a solution.
 {% endtab %}
 {% endtabs %}
