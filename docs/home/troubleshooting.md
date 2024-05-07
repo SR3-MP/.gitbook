@@ -21,3 +21,29 @@ Some topics about this issue can be found on the internet, if you don't know how
 First, make sure this is not an issue on your side, check your internet, if your connection is correct and you keep experiencing slow download, it's probably because you're living in a distant region from the server, like **Canada** or **Australia**.
 
 Our download server is located in **Europe**, so the speed quickly become really slow in other regions. Your best choice is to use the [manual download](https://sr3mp.net/index.php?page=download\&file=SR3MP-Release.rar).
+
+## Why am I experiencing vehicles engine sound glitch/delay ?
+
+This bug is an issue of the game itself, it's a known issue that we will eventually try to fix in the future, as we are speaking, it's not a priority during the Alpha stage of the mod.
+
+As a workaround, you can fix this bug by going to the control panel of your GPU (**Nvidia Panel**, **AMD Adrenalin** or **Intel Arc Control Software**), and follow this step-by-step guide below:
+
+{% tabs %}
+{% tab title="Nvidia" %}
+1. Open your **Nvidia Control Panel**
+2. Go to **Manage 3D Settings**
+3. Go to **Program Settings**
+4. Select **Saints Row: The Third Remastered (SRTTR.exe)** executable
+5. Scroll down until you see **Low Latency Mode**
+6. Set it to **Ultra**
+7. Restart your game
+{% endtab %}
+
+{% tab title="AMD" %}
+Not available yet.
+{% endtab %}
+
+{% tab title="Intel" %}
+Not available yet.
+{% endtab %}
+{% endtabs %}
