@@ -9,6 +9,7 @@
 
 ## 📗 Scripting Reference
 
+* [🕢 Event](scripting-reference/event.md)
 * [💬 Chat](scripting-reference/chat.md)
 
 ## 📕 Game Reference
