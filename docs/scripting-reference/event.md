@@ -6,11 +6,7 @@ Events handler is a powerful way of calling stuff from other LUA scripts or simp
 
 A list of already existant events:
 
-| Name                          | Description                                                                |
-| ----------------------------- | -------------------------------------------------------------------------- |
-| "core:on\_gameplay\_enter"    | Called right after you enter the game.                                     |
-| "core:on\_gameplay\_render"   | Called every frame (Mostly used to handle UI)                              |
-| "core:on\_gameplay\_simulate" | Called every frame (Mostly used to handle physics, entities spawning, ...) |
+<table><thead><tr><th width="262">Name</th><th>Description</th></tr></thead><tbody><tr><td>core:on_gameplay_enter</td><td>Called right after you enter the game.</td></tr><tr><td>core:on_gameplay_render</td><td>Called every frame (Mostly used to handle UI)</td></tr><tr><td>core:on_gameplay_simulate</td><td>Called every frame (Mostly used to handle physics, entities spawning, ...)</td></tr></tbody></table>
 
 ### <mark style="color:purple;">register</mark>
 
