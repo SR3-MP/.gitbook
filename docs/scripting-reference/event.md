@@ -2,11 +2,61 @@
 
 ## Client
 
-Events handler is a powerful way of calling stuff from other LUA scripts or simply add a listener to an existant internal events, useful for handling game loop/game logic.
+Events handler is a powerful way of calling function from external LUA scripts or simply add a listener to an existant internal events, useful for handling game loop/game logic.
 
-A list of already existant events:
+Internal events list:
 
-<table><thead><tr><th width="262">Name</th><th>Description</th></tr></thead><tbody><tr><td>core:on_gameplay_enter</td><td>Called right after you enter the game.</td></tr><tr><td>core:on_gameplay_render</td><td>Called every frame (Mostly used to handle UI)</td></tr><tr><td>core:on_gameplay_simulate</td><td>Called every frame (Mostly used to handle physics, entities spawning, ...)</td></tr></tbody></table>
+<details>
+
+<summary>core:on_gameplay_enter</summary>
+
+Called right after you enter the game.
+
+Example:
+
+```lua
+event.add_handler("core:on_gameplay_enter", function()
+
+    print("You just spawned into the game !")
+end)
+```
+
+</details>
+
+<details>
+
+<summary>core:on_gameplay_render</summary>
+
+Called every frame (Mostly used to handle UI)
+
+Example:
+
+```lua
+event.add_handler("core:on_gameplay_render", function()
+
+    print("Called every frame !")
+end)
+```
+
+</details>
+
+<details>
+
+<summary>core:on_gameplay_simulate</summary>
+
+Called every frame (Mostly used to handle physics, entities spawning, ...)
+
+Example:
+
+```lua
+event.add_handler("core:on_gameplay_simulate", function()
+
+    -- WARNING: You cannot draw ui functions here !
+    print("Called every frame !")
+end)
+```
+
+</details>
 
 ### <mark style="color:purple;">register</mark>
 
