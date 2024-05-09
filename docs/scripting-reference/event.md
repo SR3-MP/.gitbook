@@ -94,9 +94,9 @@ event.add_handler(name --[[ string ]], handler -- [[ func ]])
 Example:
 
 <pre class="language-lua"><code class="lang-lua"><strong>event.register("myresource:say_msg") -- NOTE: Only required if not already registered.
-</strong><strong>event.add_handler("myresource:say_msg", function()
+</strong><strong>event.add_handler("myresource:say_msg", function(msg --[[ This parameter is not necessary if you don't pass any data in the event.call() method ]])
 </strong>
-    print("Hello world !")
+    print("Msg: "..msg)
 end)
 </code></pre>
 
@@ -110,7 +110,11 @@ Call a specific event using it's name.
 You can only call event registered in your LUA scripts, internal events starting with **core:** cannot be called from script.
 {% endhint %}
 
-<pre class="language-lua"><code class="lang-lua"><strong>event.call(name --[[ string ]])
+{% hint style="info" %}
+You can pass optional parameters, and later use them in function handler(s).
+{% endhint %}
+
+<pre class="language-lua"><code class="lang-lua"><strong>event.call(name --[[ string ]], ...)
 </strong></code></pre>
 
 | Name | Type   | Description |
@@ -120,7 +124,7 @@ You can only call event registered in your LUA scripts, internal events starting
 Example:
 
 ```lua
-event.call("myresource:say_msg")
+event.call("myresource:say_msg", "Hello world !")
 ```
 
 ***
