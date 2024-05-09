@@ -94,7 +94,7 @@ event.add_handler(name --[[ string ]], handler -- [[ func ]])
 Example:
 
 <pre class="language-lua"><code class="lang-lua"><strong>event.register("myresource:say_msg") -- NOTE: Only required if not already registered.
-</strong><strong>event.add_handler("myresource:say_msg", function(msg --[[ This parameter is not necessary if you don't pass any data in the event.call() method ]])
+</strong><strong>event.add_handler("myresource:say_msg", function(msg)
 </strong>
     print("Msg: "..msg)
 end)
