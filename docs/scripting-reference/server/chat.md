@@ -1,7 +1,5 @@
 # 💬 Chat
 
-## Server
-
 ### <mark style="color:purple;">register\_command</mark>
 
 Register a command on the server, connected players will be able to call it from the chat box.

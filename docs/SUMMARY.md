@@ -9,8 +9,12 @@
 
 ## 📗 Scripting Reference
 
-* [🕢 Event](scripting-reference/event.md)
-* [💬 Chat](scripting-reference/chat.md)
+* [🖥️ Client](scripting-reference/client/README.md)
+  * [⌨️ Input](scripting-reference/client/input.md)
+* [📶 Server](scripting-reference/server/README.md)
+  * [💬 Chat](scripting-reference/server/chat.md)
+* [🌐 Shared](scripting-reference/shared/README.md)
+  * [🕢 Event](scripting-reference/shared/event.md)
 
 ## 📕 Game Reference
 
