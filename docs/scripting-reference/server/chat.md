@@ -1,4 +1,4 @@
-# 💬 Chat
+# Chat
 
 ### <mark style="color:purple;">register\_command</mark>
 
@@ -9,11 +9,6 @@ Register a command on the server, connected players will be able to call it from
 chat.register_command(name --[[ string ]], handler --[[ func ]])
 ```
 {% endcode %}
-
-| Name    | Type   | Description          |
-| ------- | ------ | -------------------- |
-| name    | string | Command name         |
-| handler | func   | The function handler |
 
 Example:
 
@@ -37,11 +32,6 @@ Send a message to a specific player.
 chat.send_message(src --[[ integer ]], msg --[[ string ]])
 ```
 
-| Name | Type    | Description      |
-| ---- | ------- | ---------------- |
-| src  | integer | Player source id |
-| msg  | string  | Message to send  |
-
 Example:
 
 ```lua
@@ -61,10 +51,6 @@ Send a message to all connected players.
 ```lua
 chat.broadcast_message(msg --[[ string ]])
 ```
-
-| Name | Type   | Description     |
-| ---- | ------ | --------------- |
-| msg  | string | Message to send |
 
 Example:
 

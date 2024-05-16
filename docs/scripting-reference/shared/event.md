@@ -1,4 +1,4 @@
-# 🕢 Event
+# Event
 
 ## Client
 
@@ -66,10 +66,6 @@ Register an event, to be able to call it later using call function.
 event.register(name --[[ string ]])
 ```
 
-| Name | Type   | Description |
-| ---- | ------ | ----------- |
-| name | string | Event name  |
-
 Example:
 
 ```lua
@@ -85,11 +81,6 @@ Add an handler function to a specific event.
 ```lua
 event.add_handler(name --[[ string ]], handler -- [[ func ]])
 ```
-
-| Name    | Type   | Description          |
-| ------- | ------ | -------------------- |
-| name    | string | Event name           |
-| handler | func   | The function handler |
 
 Example:
 
@@ -116,10 +107,6 @@ You can pass optional parameters, and later use them in function handler(s).
 
 <pre class="language-lua"><code class="lang-lua"><strong>event.call(name --[[ string ]], ...)
 </strong></code></pre>
-
-| Name | Type   | Description |
-| ---- | ------ | ----------- |
-| name | string | Event name  |
 
 Example:
 
