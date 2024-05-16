@@ -6,6 +6,33 @@ To use the functions below, you will need to know about the corresponding **keyc
 Most functions below comport two different definitions, one taking a **keyname**, and an other taking a **keycode**, use the one that suit your need.
 {% endhint %}
 
+### <mark style="color:purple;">key\_down</mark>
+
+Check if an input is currently pressed.
+
+```lua
+input.key_down(keyname --[[ string ]])
+input.key_down(keycode --[[ integer ]])
+```
+
+Example:
+
+```lua
+-- Using a keyname
+if input.key_down("F2") then
+
+    print("F2 is currently pressed!")
+end
+
+-- Using a keycode
+if input.key_down(60) then
+
+    print("F2 is currently pressed!")
+end
+```
+
+***
+
 ### <mark style="color:purple;">key\_just\_pressed</mark>
 
 Check if an input has just been pressed once.
