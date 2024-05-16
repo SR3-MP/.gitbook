@@ -91,6 +91,10 @@ end
 
 Disable a specific key.
 
+{% hint style="warning" %}
+This function doesn't need to be called every frame.
+{% endhint %}
+
 ```lua
 input.key_disable(keyname --[[ string ]])
 input.key_disable(keycode --[[ integer ]])
@@ -111,6 +115,10 @@ input.key_disable(60)
 ### <mark style="color:purple;">key\_enable</mark>
 
 Enable (or re-enable) a specific key.
+
+{% hint style="warning" %}
+This function doesn't need to be called every frame.
+{% endhint %}
 
 ```lua
 input.key_enable(keyname --[[ string ]])
