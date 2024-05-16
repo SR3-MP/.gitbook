@@ -6,6 +6,14 @@
 * [🕹️ Getting Started](home/getting-started.md)
 * [🧰 Troubleshooting](home/troubleshooting.md)
 * [⁉️ F.A.Q](home/f.a.q.md)
+* [📋 Changelogs](home/changelogs/README.md)
+  * [Alpha](home/changelogs/alpha/README.md)
+    * [0.0.1](home/changelogs/alpha/0.0.1.md)
+    * [0.0.1b](home/changelogs/alpha/0.0.1b.md)
+    * [0.0.2](home/changelogs/alpha/0.0.2.md)
+    * [0.0.3](home/changelogs/alpha/0.0.3.md)
+    * [0.0.4](home/changelogs/alpha/0.0.4.md)
+    * [0.1.0](home/changelogs/alpha/0.1.0.md)
 
 ## 📗 Scripting Reference
 
