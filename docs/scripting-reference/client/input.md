@@ -79,10 +79,52 @@ if input.key_just_released("F2") then
 end
 
 -- Using a keycode
-if input.key_just_released("F2") then
+if input.key_just_released(60) then
 
     print("F2 key has been released!")
 end
+```
+
+***
+
+### <mark style="color:purple;">key\_disable</mark>
+
+Disable a specific key.
+
+```lua
+input.key_disable(keyname --[[ string ]])
+input.key_disable(keycode --[[ integer ]])
+```
+
+Example:
+
+```lua
+-- Using a keyname
+input.key_disable("F2")
+
+-- Using a keycode
+input.key_disable(60)
+```
+
+***
+
+### <mark style="color:purple;">key\_enable</mark>
+
+Enable (or re-enable) a specific key.
+
+```lua
+input.key_enable(keyname --[[ string ]])
+input.key_enable(keycode --[[ integer ]])
+```
+
+Example:
+
+```lua
+-- Using a keyname
+input.key_enable("F2")
+
+-- Using a keycode
+input.key_enable(60)
 ```
 
 ***
