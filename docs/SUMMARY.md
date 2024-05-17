@@ -26,6 +26,7 @@
 
 ## 📕 Game Reference
 
+* [Render Settings](game-reference/render-settings.md)
 * [Key Codes](game-reference/key-codes.md)
 * [Vehicles](game-reference/vehicles.md)
 * [Weather](game-reference/weather.md)
