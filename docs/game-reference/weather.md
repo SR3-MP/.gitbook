@@ -1,4 +1,4 @@
-# ☔ Weather
+# Weather
 
 |  Id |     Name    |
 | :-: | :---------: |
