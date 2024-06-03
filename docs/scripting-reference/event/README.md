@@ -2,7 +2,7 @@
 
 Events handler is a powerful way of calling function from other LUA resources, add a listener to an existant internal events, useful for handling game loop/game logic or trigger an event on server.
 
-Internal events list:
+Internal client events list:
 
 <details>
 

@@ -2,7 +2,7 @@
 
 <mark style="color:purple;">**`Client`**</mark> <mark style="color:purple;">**`Server`**</mark>
 
-Register an event, to be able to trigger it later using [trigger](register.md#trigger) function.
+Register an event, to be able to trigger it later using [trigger](trigger.md) function.
 
 {% tabs %}
 {% tab title="Definition" %}
