@@ -27,6 +27,8 @@
   * [add\_handler](scripting-reference/event/add\_handler.md)
   * [trigger](scripting-reference/event/trigger.md)
   * [trigger\_on\_server](scripting-reference/event/trigger\_on\_server.md)
+  * [trigger\_on\_client](scripting-reference/event/trigger\_on\_client.md)
+  * [wait](scripting-reference/event/wait.md)
 
 ## 📕 Game Reference
 
