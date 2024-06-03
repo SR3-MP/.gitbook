@@ -22,8 +22,10 @@
   * [Input](scripting-reference/client/input.md)
 * [Server](scripting-reference/server/README.md)
   * [Chat](scripting-reference/server/chat.md)
-* [Shared](scripting-reference/shared/README.md)
-  * [Event](scripting-reference/shared/event.md)
+* [event](scripting-reference/event/README.md)
+  * [register](scripting-reference/event/register.md)
+  * [add\_handler](scripting-reference/event/add\_handler.md)
+  * [trigger](scripting-reference/event/trigger.md)
 
 ## 📕 Game Reference
 
