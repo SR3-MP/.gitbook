@@ -1,5 +1,7 @@
 # key\_just\_pressed
 
+<mark style="color:purple;">**`Client`**</mark>
+
 Check if an input has just been pressed once.
 
 {% tabs %}

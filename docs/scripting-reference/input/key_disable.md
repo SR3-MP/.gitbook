@@ -1,5 +1,7 @@
 # key\_disable
 
+<mark style="color:purple;">**`Client`**</mark>
+
 Disable a specific key.
 
 {% tabs %}

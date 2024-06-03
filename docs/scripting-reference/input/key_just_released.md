@@ -1,5 +1,7 @@
 # key\_just\_released
 
+<mark style="color:purple;">**`Client`**</mark>
+
 Check if an input has just been released.
 
 {% tabs %}

@@ -1,5 +1,7 @@
 # key\_enable
 
+<mark style="color:purple;">**`Client`**</mark>
+
 Enable (or re-enable) a specific key.
 
 {% tabs %}
