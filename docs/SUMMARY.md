@@ -18,10 +18,6 @@
 
 ## 📗 Scripting Reference
 
-* [Client](scripting-reference/client/README.md)
-  * [Input](scripting-reference/client/input.md)
-* [Server](scripting-reference/server/README.md)
-  * [Chat](scripting-reference/server/chat.md)
 * [event](scripting-reference/event/README.md)
   * [register](scripting-reference/event/register.md)
   * [add\_handler](scripting-reference/event/add\_handler.md)
@@ -29,6 +25,13 @@
   * [trigger\_on\_server](scripting-reference/event/trigger\_on\_server.md)
   * [trigger\_on\_client](scripting-reference/event/trigger\_on\_client.md)
   * [wait](scripting-reference/event/wait.md)
+* [input](scripting-reference/input/README.md)
+  * [key\_down](scripting-reference/input/key\_down.md)
+  * [key\_just\_pressed](scripting-reference/input/key\_just\_pressed.md)
+  * [key\_just\_released](scripting-reference/input/key\_just\_released.md)
+  * [key\_disable](scripting-reference/input/key\_disable.md)
+  * [key\_enable](scripting-reference/input/key\_enable.md)
+* [chat](scripting-reference/chat.md)
 
 ## 📕 Game Reference
 
