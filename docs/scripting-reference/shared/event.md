@@ -2,7 +2,7 @@
 
 ## Client
 
-Events handler is a powerful way of calling function from external LUA scripts or simply add a listener to an existant internal events, useful for handling game loop/game logic.
+Events handler is a powerful way of calling function from other LUA resources, add a listener to an existant internal events, useful for handling game loop/game logic or trigger an event on server.
 
 Internal events list:
 
@@ -60,7 +60,7 @@ end)
 
 ### <mark style="color:purple;">register</mark>
 
-Register an event, to be able to call it later using call function.
+Register an event, to be able to trigger it later using [trigger](event.md#trigger) function.
 
 ```lua
 event.register(name --[[ string ]])
@@ -78,13 +78,17 @@ event.register("myresource:say_msg")
 
 Add an handler function to a specific event.
 
+{% hint style="info" %}
+You need to register an event at least once to be able to add an handler. Calling [register](event.md#register) function multiples time will simply do nothing if the event is already registered.
+{% endhint %}
+
 ```lua
 event.add_handler(name --[[ string ]], handler -- [[ func ]])
 ```
 
 Example:
 
-<pre class="language-lua"><code class="lang-lua"><strong>event.register("myresource:say_msg") -- NOTE: Only required if not already registered.
+<pre class="language-lua"><code class="lang-lua"><strong>event.register("myresource:say_msg")
 </strong><strong>event.add_handler("myresource:say_msg", function(msg)
 </strong>
     print("Msg: "..msg)
@@ -93,25 +97,62 @@ end)
 
 ***
 
-### <mark style="color:purple;">call</mark>
+### <mark style="color:purple;">trigger</mark>
 
-Call a specific event using it's name.
+Trigger a specific event using it's name.
 
 {% hint style="warning" %}
-You can only call event registered in your LUA scripts, internal events starting with **core:** cannot be called from script.
+You can only trigger events registered in your own LUA scripts/resources, internal events starting with **core:** cannot be called from script.
 {% endhint %}
 
 {% hint style="info" %}
 You can pass optional parameters, and later use them in function handler(s).
 {% endhint %}
 
-<pre class="language-lua"><code class="lang-lua"><strong>event.call(name --[[ string ]], ...)
+{% hint style="warning" %}
+Currently only data of type **integer**, **number**, **boolean** and **string** can be passed as parameters. If you want to pass more complexe data (like a table), it's recommended passing data as a JSON string.
+{% endhint %}
+
+<pre class="language-lua"><code class="lang-lua"><strong>event.trigger(name --[[ string ]], ...)
 </strong></code></pre>
 
 Example:
 
 ```lua
-event.call("myresource:say_msg", "Hello world !")
+event.trigger("myresource:say_msg", "Hello world !")
 ```
 
 ***
+
+### <mark style="color:purple;">trigger\_on\_server</mark>
+
+Trigger a specific event registered on the server side.
+
+{% hint style="warning" %}
+You can only trigger events registered in your own LUA scripts/resources, internal events starting with **"core:"** cannot be called from script.
+{% endhint %}
+
+{% hint style="info" %}
+You can pass optional parameters, and later use them in function handler(s).
+{% endhint %}
+
+{% hint style="warning" %}
+Currently only data of type **integer**, **number**, **boolean** and **string** can be passed as parameters. If you want to pass more complexe data (like a table), it's recommended passing data as a JSON string.
+{% endhint %}
+
+```lua
+event.trigger_on_server(name --[[ string ]], ...)
+```
+
+Example:
+
+<pre class="language-lua"><code class="lang-lua"><strong>-- client.lua
+</strong><strong>event.trigger_on_server("myresource:say_msg", "Hello world !") -- We're sending "Hello World !" to the server.
+</strong><strong>
+</strong><strong>-- server.lua
+</strong><strong>event.register("myresource:say_msg")
+</strong><strong>event.add_handler("myresource:say_msg", function(_msg)
+</strong><strong>
+</strong><strong>    print(_msg) -- "Hello world !" will be printed in the server console.
+</strong><strong>end)
+</strong></code></pre>
