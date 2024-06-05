@@ -31,6 +31,11 @@
   * [key\_just\_released](scripting-reference/input/key\_just\_released.md)
   * [key\_disable](scripting-reference/input/key\_disable.md)
   * [key\_enable](scripting-reference/input/key\_enable.md)
+  * [controller\_is\_connected](scripting-reference/input/controller\_is\_connected.md)
+  * [joy\_get\_value](scripting-reference/input/joy\_get\_value.md)
+  * [button\_get\_value](scripting-reference/input/button\_get\_value.md)
+  * [button\_is\_pressed](scripting-reference/input/button\_is\_pressed.md)
+  * [button\_just\_pressed](scripting-reference/input/button\_just\_pressed.md)
 * [chat](scripting-reference/chat.md)
 
 ## 📕 Game Reference
