@@ -29,7 +29,7 @@ You put the IP of the server in the field and click connect, simple as that. (Yo
 
 Using the servers list is the most common way, you simply click on **Servers List** in the main menu and choose the server you want to play on !
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Server list</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Server list</p></figcaption></figure>
 
 ## Server
 
