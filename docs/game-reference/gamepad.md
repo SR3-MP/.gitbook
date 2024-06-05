@@ -12,7 +12,7 @@
 | 7  | RIGHT\_TRIGGER  | ![](../.gitbook/assets/T\_X\_RT\_Alt.png)                  | ![](../.gitbook/assets/T\_P5\_R2\_Alt.png)                  |
 | 8  | DPAD\_RIGHT     | ![](../.gitbook/assets/T\_X\_Dpad\_Right\_Alt.png)         | ![](../.gitbook/assets/T\_P5\_Dpad\_Right\_Alt.png)         |
 | 9  | DPAD\_UP        | ![](../.gitbook/assets/T\_X\_Dpad\_Up\_Alt.png)            | ![](../.gitbook/assets/T\_P5\_Dpad\_UP\_Alt.png)            |
-| 10 | DPAD\_LEFT      | ![](broken-reference)                                      | ![](../.gitbook/assets/T\_P5\_Dpad\_Left\_Alt.png)          |
+| 10 | DPAD\_LEFT      | ![](../.gitbook/assets/T\_X\_Dpad\_Left\_Alt.png)          | ![](../.gitbook/assets/T\_P5\_Dpad\_Left\_Alt.png)          |
 | 11 | DPAD\_DOWN      | ![](../.gitbook/assets/T\_X\_Dpad\_Down\_Alt.png)          | ![](../.gitbook/assets/T\_P5\_Dpad\_Down\_Alt.png)          |
 | 12 | START           | ![](../.gitbook/assets/T\_X\_X\_Alt.png)                   | ![](../.gitbook/assets/T\_P5\_Options\_Alt.png)             |
 | 13 | SELECT          | ![](../.gitbook/assets/T\_X\_Share\_Alt.png)               | ![](../.gitbook/assets/T\_P5\_Share\_Alt.png)               |
