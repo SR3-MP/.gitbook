@@ -23,8 +23,5 @@ print(value.y)
 {% endtabs %}
 
 {% hint style="info" %}
-`joyid` parameter can take 2 different values:\
-`0 = Left Stick`
-
-`1 = Right Stick`
+`joyid`parameter can take 2 different values, **0** is the left stick, **1** is the right one.
 {% endhint %}
