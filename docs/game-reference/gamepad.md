@@ -12,7 +12,7 @@
 | 7  | RIGHT\_TRIGGER  | <img src="../.gitbook/assets/T_X_RT_Alt.png" alt="" width="64" height="64">                | <img src="../.gitbook/assets/T_P5_R2_Alt.png" alt="" width="64" height="64">                |
 | 8  | DPAD\_RIGHT     | <img src="../.gitbook/assets/T_X_Dpad_Right_Alt.png" alt="" width="64" height="64">        | <img src="../.gitbook/assets/T_P5_Dpad_Right_Alt.png" alt="" width="64" height="64">        |
 | 9  | DPAD\_UP        | <img src="../.gitbook/assets/T_X_Dpad_Up_Alt.png" alt="" width="64" height="64">           | <img src="../.gitbook/assets/T_P5_Dpad_UP_Alt.png" alt="" width="64" height="64">           |
-| 10 | DPAD\_LEFT      | <img src="../.gitbook/assets/T_X_Dpad_Left_Alt (1).png" alt="" width="64" height="64">     | <img src="../.gitbook/assets/T_P5_Dpad_Left_Alt.png" alt="" width="64" height="64">         |
+| 10 | DPAD\_LEFT      | <img src="../.gitbook/assets/T_X_Dpad_Left_Alt.png" alt="" width="64" height="64">         | <img src="../.gitbook/assets/T_P5_Dpad_Left_Alt.png" alt="" width="64" height="64">         |
 | 11 | DPAD\_DOWN      | <img src="../.gitbook/assets/T_X_Dpad_Down_Alt.png" alt="" width="64" height="64">         | <img src="../.gitbook/assets/T_P5_Dpad_Down_Alt.png" alt="" width="64" height="64">         |
 | 12 | START           | <img src="../.gitbook/assets/T_X_X_Alt.png" alt="" width="64" height="64">                 | <img src="../.gitbook/assets/T_P5_Options_Alt.png" alt="" width="64" height="64">           |
 | 13 | SELECT          | <img src="../.gitbook/assets/T_X_Share_Alt.png" alt="" width="64" height="64">             | <img src="../.gitbook/assets/T_P5_Share_Alt.png" alt="" width="64" height="64">             |
