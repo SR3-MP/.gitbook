@@ -1,9 +1,3 @@
 # ☔ Weather
 
-|                                     Picture                                     |  Id | Name        |
-| :-----------------------------------------------------------------------------: | :-: | ----------- |
-| <img src="../.gitbook/assets/20240605180439_1.jpg" alt="" data-size="original"> |  0  | Clear Skies |
-| <img src="../.gitbook/assets/20240605180450_1.jpg" alt="" data-size="original"> |  1  | Light Rain  |
-| <img src="../.gitbook/assets/20240605180501_1.jpg" alt="" data-size="original"> |  2  | Overcast    |
-| <img src="../.gitbook/assets/20240605180510_1.jpg" alt="" data-size="original"> |  3  | Heavy Rain  |
-| <img src="../.gitbook/assets/20240605180518_1.jpg" alt="" data-size="original"> |  4  | Post-Storm  |
+<table><thead><tr><th width="244" align="center">Picture</th><th width="240" align="center">Id</th><th align="center">Name</th></tr></thead><tbody><tr><td align="center"><img src="../.gitbook/assets/20240605180439_1.jpg" alt="" data-size="original"></td><td align="center">0</td><td align="center">Clear Skies</td></tr><tr><td align="center"><img src="../.gitbook/assets/20240605180450_1.jpg" alt="" data-size="original"></td><td align="center">1</td><td align="center">Light Rain</td></tr><tr><td align="center"><img src="../.gitbook/assets/20240605180501_1.jpg" alt="" data-size="original"></td><td align="center">2</td><td align="center">Overcast</td></tr><tr><td align="center"><img src="../.gitbook/assets/20240605180510_1.jpg" alt="" data-size="original"></td><td align="center">3</td><td align="center">Heavy Rain</td></tr><tr><td align="center"><img src="../.gitbook/assets/20240605180518_1.jpg" alt="" data-size="original"></td><td align="center">4</td><td align="center">Post-Storm</td></tr></tbody></table>
