@@ -35,8 +35,9 @@
 
 ## 📕 Game Reference
 
-* [Render Settings](game-reference/render-settings.md)
-* [Key Codes](game-reference/key-codes.md)
-* [Vehicles](game-reference/vehicles.md)
-* [Weather](game-reference/weather.md)
-* [Blips](game-reference/blips.md)
+* [📺 Render Settings](game-reference/render-settings.md)
+* [⌨️ Key Codes](game-reference/key-codes.md)
+* [🎮 Gamepad](game-reference/gamepad.md)
+* [🚙 Vehicles](game-reference/vehicles.md)
+* [☔ Weather](game-reference/weather.md)
+* [🗺️ Blips](game-reference/blips.md)

@@ -1,4 +1,4 @@
-# Key Codes
+# ⌨️ Key Codes
 
 | Code |        Key Name        |
 | :--: | :--------------------: |
