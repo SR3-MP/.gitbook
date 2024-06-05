@@ -1,7 +1,7 @@
 # 🎮 Gamepad
 
 | Id | Name            | Xbox                                                                                     | Playstation                                                                               |
-| -- | --------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| :-: | :-------------: | :--------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 | 0  | BUTTON\_SOUTH   | <img src="../.gitbook/assets/T_X_A_Color_Alt.png" alt="" width="64" height="64">           | <img src="../.gitbook/assets/T_P5_Cross_Color_Alt.png" alt="" width="64" height="64">       |
 | 1  | BUTTON\_EAST    | <img src="../.gitbook/assets/T_X_B_Color_Alt.png" alt="" width="64" height="64">           | <img src="../.gitbook/assets/T_P5_Circle_Color_Alt.png" alt="" width="64" height="64">      |
 | 2  | BUTTON\_WEST    | <img src="../.gitbook/assets/T_X_X_Color_Alt.png" alt="" width="64" height="64">           | <img src="../.gitbook/assets/T_P5_Square_Color_Alt.png" alt="" width="64" height="64">      |
