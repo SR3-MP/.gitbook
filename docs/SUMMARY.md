@@ -18,6 +18,9 @@
 
 ## 📗 Scripting Reference
 
+* [audio](scripting-reference/audio/README.md)
+  * [play\_one\_shot](scripting-reference/audio/play\_one\_shot.md)
+  * [stop](scripting-reference/audio/stop.md)
 * [event](scripting-reference/event/README.md)
   * [register](scripting-reference/event/register.md)
   * [add\_handler](scripting-reference/event/add\_handler.md)
@@ -45,7 +48,7 @@
 
 ## 📕 Game Reference
 
-* [📺 Render Settings](game-reference/render-settings.md)
+* [🖼️ Render Settings](game-reference/render-settings.md)
 * [⌨️ Key Codes](game-reference/key-codes.md)
 * [🎮 Gamepad](game-reference/gamepad.md)
 * [🚙 Vehicles](game-reference/vehicles.md)
