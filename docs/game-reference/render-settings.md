@@ -1,4 +1,4 @@
-# 📺 Render Settings
+# 🖼️ Render Settings
 
 | Name                                     | Default Value |
 | ---------------------------------------- | ------------- |

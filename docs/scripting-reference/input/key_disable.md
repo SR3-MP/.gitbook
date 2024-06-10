@@ -2,16 +2,16 @@
 
 <mark style="color:purple;">**`Client`**</mark>
 
-Disable a specific key.
+Disable/enable a specific key.
 
 {% tabs %}
 {% tab title="Definition" %}
 ```lua
-input.key_disable(keyname --[[ string ]])
+input.key_disable(keyname --[[ string ]], disabled --[[ boolean ]])
 ```
 
 ```lua
-input.key_disable(keycode --[[ integer ]])
+input.key_disable(keycode --[[ integer ]], disabled --[[ boolean ]])
 ```
 {% endtab %}
 
@@ -19,13 +19,13 @@ input.key_disable(keycode --[[ integer ]])
 **Using a keyname:**
 
 ```lua
-input.key_disable("F2")
+input.key_disable("F2", true)
 ```
 
 **Using a keycode:**
 
 ```lua
-input.key_disable(60)
+input.key_disable(60, true)
 ```
 {% endtab %}
 {% endtabs %}
