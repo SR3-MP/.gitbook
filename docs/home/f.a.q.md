@@ -22,7 +22,7 @@ No, it's a custom netcode, using dedicated servers, allowing for deeper modifica
 
 ## Is the mod free to play ?
 
-Yes, the mod is entirely f2p, however if you want to support our work,  you can on [Patreon](https://www.patreon.com/SR3MP).
+Yes, the mod is entirely f2p, however if you want to support our work, you can on [Patreon](https://www.patreon.com/SR3MP).
 
 ## Can I play SR3MP on a pirated version of the game ?
 
@@ -42,7 +42,7 @@ No, SR3MP is comparable to FiveM, Garry's Mod or Roblox, it's more of a sandbox 
 
 ## What is the maximum amount of players you can handle with your mod ?
 
-Up to 31 players yet, however this current "limitation" can still be extended in the future.
+Up to 127 players, but this will highly depends of the specs of your machine you host your server on.
 
 ## Do you have any plans to create mods on other Saints Row titles ?
 
