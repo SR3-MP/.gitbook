@@ -17,6 +17,7 @@
     * [0.1.1](home/changelogs/alpha/0.1.0-1.md)
     * [0.1.2](home/changelogs/alpha/0.1.2.md)
     * [0.1.3](home/changelogs/alpha/0.1.3.md)
+    * [0.1.4](home/changelogs/alpha/0.1.4.md)
 
 ## 📗 Scripting Reference
 
